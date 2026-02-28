@@ -1,9 +1,5 @@
 # 🧠 Brain Tumor Classification using Deep Learning
 
-```markdown
-## 🖼 Sample Output
-
-![Grad-CAM Output](gradcam_outputs/gradcam_1.jpg)
 
 📌 Project Overview
 
