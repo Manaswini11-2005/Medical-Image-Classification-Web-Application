@@ -1,4 +1,4 @@
-# 🧠 Brain Tumor Classification using Deep Learning
+# 🧠Medical Image Classification Web Application
 
 
 📌 Project Overview
@@ -21,6 +21,14 @@ MobileNetV2 (Transfer Learning)
 OpenCV
 Matplotlib
 Scikit-learn
+
+Django / Flask 
+REST API
+MySQL
+Software Development
+Backend
+Data Processing
+Problem Solving
 
 ## 📊 Model Performance
 
