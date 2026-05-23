@@ -1,4 +1,4 @@
-# 🧠Medical Image Classification Web Application
+# 🧠Brain-tumor-detection-Using-Deeplearning-CNN
 
 
 📌 Project Overview
